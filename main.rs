@@ -195,7 +195,7 @@ ingress:
                     }
                 },
                 "sniffing": {
-                    "enabled": true,
+                    "enabled": False,
                     "destOverride": ["http", "tls", "quic"],
                     "metadataOnly": false
                 }
@@ -214,7 +214,7 @@ ingress:
                     }
                 },
                 "sniffing": {
-                    "enabled": true,
+                    "enabled": False,
                     "destOverride": ["http", "tls", "quic"],
                     "metadataOnly": false
                 }
@@ -234,7 +234,7 @@ ingress:
                     }
                 },
                 "sniffing": {
-                    "enabled": true,
+                    "enabled": False,
                     "destOverride": ["http", "tls", "quic"],
                     "metadataOnly": false
                 }
